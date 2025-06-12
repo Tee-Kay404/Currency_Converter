@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # currency_converter
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Currency_Converter
+Currency Converter is a lightweight and fast app that lets you convert between global currencies in real-time. It features up-to-date exchange rates, intuitive UI, and blends Material UI (Android) and Cupertino UI (iOS) to deliver a native look and feel on both platforms, showcasing the beauty of Flutter's cross-platform capabilities.
+>>>>>>> 74e06ef49154a63160057fb85614a8846ca6d484
