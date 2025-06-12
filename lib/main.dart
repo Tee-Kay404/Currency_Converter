@@ -4,35 +4,23 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-    runApp(const MyApp());
+  runApp(const MyApp());
 }
-/* types of widget 
-1. StatelessWidget
-2. StatefulWidget*/
 
-// State
-
-/*1. Material design
-  2. Cupertino design*/
-   
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-   @override
-    Widget build(BuildContext context) {
-      return const MaterialApp(
-        home: CurrencyConverterMaterialPage()
-      );
-    }
+  @override
+  Widget build(BuildContext context) {
+    return const MaterialApp(home: CurrencyConverterMaterialPage());
   }
+}
 
-  class MyCupertinoApp extends StatelessWidget {
+class MyCupertinoApp extends StatelessWidget {
   const MyCupertinoApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const CupertinoApp(
-      home: CurrencyConverterCupertinoPage()
-   );
+    return const CupertinoApp(home: CurrencyConverterCupertinoPage());
   }
 }
