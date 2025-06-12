@@ -20,6 +20,7 @@ class _CurrencyConverterMaterialPageState
   void convert() {
     setState(() {
       result = double.parse(textEditingController.text) * 1730;
+      textEditingController.clear();
     });
   }
 
