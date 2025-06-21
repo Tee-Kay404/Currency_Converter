@@ -2,6 +2,9 @@
 
 Currency Converter is a lightweight and fast app that lets you convert between Naira-Dollar currencies in real-time. It features up-to-date exchange rates, intuitive UI, and blends Material UI (Android) and Cupertino UI (iOS) to deliver a native look and feel on both platforms, showcasing the beauty of Flutter's cross-platform capabilities.
 
+# App UI
+![App_UI](https://github.com/Tee-Kay404/Currency_Converter/blob/6ed3fea49824bd02b99e3c8c2eb708ab84956fc5/Currency_converter.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
